@@ -1,5 +1,7 @@
 #!/bin/bash
 
+
+echo "$PATH"
 python3 --version
 pip --version
 pytest --version
